@@ -1,0 +1,34 @@
+header{
+    background: yellow;    
+}
+nav{
+    position: static;
+    margin: 0 auto;
+    right: 10px;
+    bottom: 10px;
+}
+nav li{
+    display: inline-block;
+    margin: 10px 50px 0 20px;
+}
+
+nav a{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;    
+}
+.caixa{
+    position: relative;
+    background: red;
+    width: 100%;
+    margin: 0 auto;
+}
+.colorida span{
+    color: red;
+}
+nav a:visited{    
+    color: brown
+}
+nav a:hover{    
+    color: aqua
+}

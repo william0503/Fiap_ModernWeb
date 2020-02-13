@@ -1,0 +1,45 @@
+body {
+    background: #CCCCCC;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold
+}
+h1{
+    text-align: center
+}
+p {    
+    color: #000000;
+    font-size: 20px
+}
+em strong {
+    color: #FF0000;
+}
+#banner {
+    border: 1px solid blue;
+}
+#missao {
+    font-size : 20px
+}
+.principal{
+    background: #FF0000;
+    padding: 10px;
+}
+.beneficios{
+    background: greenyellow
+}
+.itens{
+    font-style: italic
+}
+ul {
+    list-style-type: square;
+    display: inline-block;
+}
+header{
+    color: chartreuse;
+}
+.header-principal{
+    color: aquamarine;
+}
+input:invalid{
+    background: #FF0000
+}
